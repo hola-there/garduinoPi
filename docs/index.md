@@ -1,2 +1,2 @@
 # First page of documentation
-> It slowly begins!
+> It begins!
