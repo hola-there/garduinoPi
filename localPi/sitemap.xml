@@ -1,0 +1,23 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://local.gardunioPi/index.html</loc>
+	</url>
+	<url>
+		<loc>https://local.gardunioPi/insertSketch.html</loc>
+	</url>
+	<url>
+		<loc>https://local.gardunioPi/viewSensors.html</loc>
+	</url>
+	<url>
+		<loc>https://local.gardunioPi/controlMotors.html</loc>
+	</url>
+	<url>
+		<loc>https://local.gardunioPi/addSensor.html</loc>
+	</url>
+	<url>
+		<loc>https://local.gardunioPi/addMotor.html</loc>
+	</url>
+	<url>
+		<loc>https://local.gardunioPi/editSketch.html</loc>
+	</url>
+</urlset>
